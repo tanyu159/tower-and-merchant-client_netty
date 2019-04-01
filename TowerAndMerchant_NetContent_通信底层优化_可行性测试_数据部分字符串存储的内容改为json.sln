@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerAndMerchant_NetContent_通信底层优化_可行性测试_数据部分字符串存储的内容改为json", "TowerAndMerchant_NetContent_通信底层优化_可行性测试_数据部分字符串存储的内容改为json.csproj", "{93274807-8B5B-18C1-C2E2-350DAD1364A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerAndMerchant_NetContent_通信底层优化_可行性测试_数据部分字符串存储的内容改为json.Editor", "TowerAndMerchant_NetContent_通信底层优化_可行性测试_数据部分字符串存储的内容改为json.Editor.csproj", "{F9170CDE-F88A-BD2D-7D75-0CBF72EF0ADD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93274807-8B5B-18C1-C2E2-350DAD1364A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93274807-8B5B-18C1-C2E2-350DAD1364A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93274807-8B5B-18C1-C2E2-350DAD1364A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93274807-8B5B-18C1-C2E2-350DAD1364A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9170CDE-F88A-BD2D-7D75-0CBF72EF0ADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9170CDE-F88A-BD2D-7D75-0CBF72EF0ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9170CDE-F88A-BD2D-7D75-0CBF72EF0ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9170CDE-F88A-BD2D-7D75-0CBF72EF0ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
