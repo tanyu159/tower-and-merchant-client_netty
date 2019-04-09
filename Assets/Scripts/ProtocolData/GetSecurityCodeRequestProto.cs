@@ -16,9 +16,12 @@ public class GetSecurityCodeRequestProto  {
     /// <returns></returns>
     public static string packJsonData(GetSecurityCodeRequestProto requestProto)
     {
-        //
-        string email = requestProto.Email;
-        string jsonData = "{\"email\":\"" + email + "\"}";
+       //手动写json的方法
+        //string email = requestProto.Email;
+        //string jsonData = "{\"email\":\"" + email + "\"}";
+
+        //使用NewtonJson直接序列化
+        string jsonData=  JsonConvert.SerializeObject(requestProto);
         return jsonData;
     }
 
